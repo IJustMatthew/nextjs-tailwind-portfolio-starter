@@ -1,0 +1,164 @@
+{
+  "languages": {
+    "de": "DE",
+    "en": "EN"
+  },
+  "componentTitles": {
+    "simepleComponents": "Simple components",
+    "sliderComponents": "Slider Component (Clickable)",
+    "galleryComponent": "Masonry Gallery Component (Multiple)",
+    "blogComponent": "Blog/Case Study (Clickable)",
+    "contactComponent": "Contact Form With Sengrid & Success/Error Toast",
+    "notFoundComponent": "404, Not Found Page"
+  },
+  "hero": {
+    "title": "Portfolio Starter kit - Next.js & Tailwind & Contentlayer",
+    "subTitle": "Built with Next.js 13, React 18 and TypeScript",
+    "description": "My template is packed with all necessary logic to start the work - such as language changing, light/dark mode, contentlayer, cypress, tailwind among others. I chose to make this template with pages directory, since at this point of time it still has the best compatibility with most of the libraries out there. Feel free to refactor it to “app directory” if it is needed for your project. 🙂🚀",
+    "alt": "user image",
+    "button": "Components"
+  },
+  "sectionTitle": {
+    "title": "Animated",
+    "subTitle1": "Section",
+    "subTitle2": "Title"
+  },
+  "infoTextPair": {
+    "key": "Key",
+    "value": "Value text"
+  },
+  "infoCard": {
+    "quantity": "1",
+    "text1": "skill",
+    "text2": "box"
+  },
+  "progressbar": "Skill progressbar",
+  "customButton": "Custom button",
+  "school": {
+    "icon": "school",
+    "date": "FROM - TO",
+    "title": "School name",
+    "subTitle": "Profession/Department",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates, quos, quas, quia, quidem."
+  },
+  "experience": {
+    "icon": "work",
+    "date": "FROM - TO",
+    "title": "Company name",
+    "subTitle": "Profession/Department",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates, quos, quas, quia, quidem."
+  },
+  "testimonial": {
+    "name": "Person Name",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+    "title": "Title of Person",
+    "company": "Company"
+  },
+  "slides": [
+    {
+      "title": "Example 1",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["feature 1", "feature 2", "feature 3"],
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Example 2",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["feature 1", "feature 2", "feature 3"],
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Example 3",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["feature 1", "feature 2", "feature 3"],
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Example 4",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["feature 1", "feature 2", "feature 3"],
+      "link": "https://google.com/"
+    }
+  ],
+  "gallery": {
+    "gallery1": "Gallery 1",
+    "gallery2": "Gallery 2"
+  },
+  "contact": {
+    "title": "Like what you see?",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+    "location": "Your Location",
+    "email": "example@email.com",
+    "linkedin": "Linkedin",
+    "button": "Send Message",
+    "form": {
+      "labels": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "message": "Message"
+      },
+      "errors": {
+        "required": "This filed is required to fill!",
+        "invalidEmail": "Invalid email address!",
+        "sendError": "The message has NOT been sent. Please try again later!"
+      },
+      "success": {
+        "message": "Message successfully sent! I'll get in touch with you soon."
+      },
+      "sendButton": "Send Message",
+      "sending": "Sending..."
+    }
+  },
+  "copyright": "Company name - All Rights Reserved.",
+  "downloadCvFileName": "User CV title",
+  "cardPlaceholder": "Card placeholder",
+  "buttons": {
+    "myPortfolio": "My portfolio",
+    "sendMessage": "Send Message",
+    "downloadCV": "Download CV",
+    "clickMe": "Click Me",
+    "back": "Back",
+    "accept": "Accept",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "sending": "Sending...",
+    "home": "Home",
+    "notFound": "Not Found"
+  },
+  "seo": {
+    "home": {
+      "title": "Portfolio Starter kit - Next.js & Tailwind & Contentlayer",
+      "description": "My template is packed with all necessary logic to start the work - such as language changing, light/dark mode, contentlayer, cypress, tailwind among others 🙂🚀",
+      "author": "You & I"
+    },
+    "notFound": {
+      "title": "404 | Page not found"
+    },
+    "privacy": {
+      "title": "Privacy Policy"
+    }
+  },
+  "notFoundPage": {
+    "text1": "Whoops!",
+    "text2": "Page not found!"
+  },
+  "blogPage": {
+    "minutes": "minutes",
+    "published": "Published"
+  },
+  "ariaLabels": {
+    "backToHome": "Back to home",
+    "changeTheme": "Change theme",
+    "changeLanguage": "Change language",
+    "smwebLogo": "logo",
+    "backToTop": "Back to top",
+    "lightMode": "Light mode",
+    "darkMode": "Dark mode"
+  },
+  "privacy": "Privacy policy"
+}

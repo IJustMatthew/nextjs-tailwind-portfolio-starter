@@ -1,0 +1,163 @@
+{
+  "languages": {
+    "de": "DE",
+    "en": "EN"
+  },
+  "componentTitles": {
+    "simepleComponents": "Einfache Komponenten",
+    "sliderComponents": "Schieberegler-Komponente (anklickbar)",
+    "galleryComponent": "Mauerwerksgalerie-Komponente (mehrere)",
+    "blogComponent": "Blog/Fallstudie (anklickbar)",
+    "contactComponent": "Kontaktformular mit Sengrid & Erfolgs-/Fehlermeldung",
+    "notFoundComponent": "404, Seite nicht gefunden"
+  },
+  "hero": {
+    "title": "Portfolio Starterkit - Next.js & Tailwind & Contentlayer",
+    "subTitle": "Erstellt mit Next.js 13, React 18 und TypeScript",
+    "description": "Meine Vorlage ist vollgepackt mit aller notwendigen Logik, um die Arbeit zu beginnen - wie Sprachänderung, Licht-/Dunkelmodus, Contentlayer, Cypress, Tailwind und vieles mehr. Ich habe mich dafür entschieden, diese Vorlage mit dem Verzeichnis „pages“ zu erstellen, da es zu diesem Zeitpunkt immer noch die beste Kompatibilität mit den meisten Bibliotheken bietet. Fühlen Sie sich frei, sie in ein „App-Verzeichnis“ umzustrukturieren, wenn dies für Ihr Projekt erforderlich ist. 🙂🚀",
+    "alt": "Benutzerbild",
+    "button": "Komponenten"
+  },
+  "sectionTitle": {
+    "title": "Animiert",
+    "subTitle1": "Abschnitt",
+    "subTitle2": "Titel"
+  },
+  "infoTextPair": {
+    "key": "Schlüssel",
+    "value": "Werttext"
+  },
+  "infoCard": {
+    "quantity": "1",
+    "text1": "Fähigkeit",
+    "text2": "Box"
+  },
+  "progressbar": "Fortschrittsbalken für Fähigkeiten",
+  "customButton": "Brauch Button",
+  "school": {
+    "icon": "school",
+    "date": "VON - BIS",
+    "title": "Schulname",
+    "subTitle": "Beruf/Abteilung",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates, quos, quas, quia, quidem."
+  },
+  "experience": {
+    "icon": "work",
+    "date": "VON - BIS",
+    "title": "Firmenname",
+    "subTitle": "Beruf/Abteilung",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates, quos, quas, quia, quidem."
+  },
+  "testimonial": {
+    "name": "Name der Person",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+    "title": "Titel der Person",
+    "company": "Firma"
+  },
+  "slides": [
+    {
+      "title": "Beispiel 1",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["Feature 1", "Feature 2", "Feature 3"],
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Beispiel 2",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["Feature 1", "Feature 2", "Feature 3"],
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Beispiel 3",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["Feature 1", "Feature 2", "Feature 3"],
+      "link": "https://google.com/"
+    },
+    {
+      "title": "Beispiel 4",
+      "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+      "thumbnail": "/img/slides/placeholder.webp",
+      "features": ["Feature 1", "Feature 2", "Feature 3"],
+      "link": "https://google.com/"
+    }
+  ],
+  "gallery": {
+    "gallery1": "Galerie 1",
+    "gallery2": "Galerie 2"
+  },
+  "contact": {
+    "title": "Gefällt Ihnen, was Sie sehen?",
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus ipsa nobis quaerat inventore, est sed amet voluptates",
+    "location": "Ihr Standort",
+    "email": "beispiel@email.com",
+    "linkedin": "Linkedin",
+    "button": "Senden",
+    "form": {
+      "labels": {
+        "name": "Name",
+        "email": "E-Mail",
+        "subject": "Betreff",
+        "message": "Nachricht"
+      },
+      "errors": {
+        "required": "Dieses Feld muss ausgefüllt werden!",
+        "invalidEmail": "Ungültige E-Mail-Adresse!",
+        "sendError": "Die Nachricht wurde NICHT gesendet. Bitte versuchen Sie es später erneut!"
+      },
+      "success": {
+        "message": "Nachricht erfolgreich gesendet! Ich werde mich bald bei Ihnen melden."
+      },
+      "sendButton": "Nachricht senden",
+      "sending": "Senden..."
+    }
+  },
+  "copyright": "Firmenname - Alle Rechte vorbehalten.",
+  "downloadCvFileName": "Benutzer-CV-Titel",
+  "buttons": {
+    "myPortfolio": "Mein Portfolio",
+    "sendMessage": "Nachricht senden",
+    "downloadCV": "Lebenslauf herunterladen",
+    "clickMe": "Klick mich",
+    "back": "Zurück",
+    "accept": "Akzeptieren",
+    "cancel": "Abbrechen",
+    "loading": "Laden...",
+    "sending": "Senden...",
+    "home": "Startseite",
+    "notFound": "Nicht gefunden"
+  },
+  "seo": {
+    "home": {
+      "title": "Portfolio Starterkit - Next.js & Tailwind & Contentlayer",
+      "description": "Meine Vorlage ist vollgepackt mit aller notwendigen Logik, um die Arbeit zu beginnen - wie Sprachänderung, Licht-/Dunkelmodus, Contentlayer, Cypress, Tailwind und vieles mehr 🙂🚀",
+      "author": "Du & Ich"
+    },
+    "notFound": {
+      "title": "404 | Seite nicht gefunden"
+    },
+    "privacy": {
+      "title": "Datenschutzrichtlinie"
+    }
+  },
+  "notFoundPage": {
+    "text1": "Hoppla!",
+    "text2": "Seite nicht gefunden!"
+  },
+  "blogPage": {
+    "minutes": "Minuten",
+    "published": "Veröffentlicht"
+  },
+  "ariaLabels": {
+    "backToHome": "Zurück zur Startseite",
+    "changeTheme": "Thema ändern",
+    "changeLanguage": "Sprache ändern",
+    "smwebLogo": "Logo",
+    "backToTop": "Nach oben",
+    "lightMode": "Heller Modus",
+    "darkMode": "Dunkler Modus"
+  },
+  "privacy": "Datenschutzrichtlinie"
+}

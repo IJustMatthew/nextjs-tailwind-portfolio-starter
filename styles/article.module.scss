@@ -1,0 +1,18 @@
+.cArticle {
+  a {
+    @apply text-lg text-primary transition-all will-change-auto hover:brightness-125;
+  }
+
+  ul {
+    @apply list-none;
+  }
+
+  ul li::before {
+    @apply -ml-[1em] inline-block w-[1em] font-bold text-primary;
+    content: "\2022";
+  }
+
+  hr {
+    @apply border-t-[1px] border-primary;
+  }
+}

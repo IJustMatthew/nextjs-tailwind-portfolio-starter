@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: {your_domain_here}/sitemap.xml
